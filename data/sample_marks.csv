@@ -1,0 +1,11 @@
+StudentID,Name,Class,Section,Maths,Physics,Chemistry,English,Computer
+1,Alice,10,A,78,85,67,72,90
+2,Bob,10,A,55,61,58,60,64
+3,Charlie,10,B,88,92,85,80,95
+4,David,10,B,35,40,38,42,30
+5,Eva,10,A,95,90,93,97,99
+6,Frank,10,C,45,50,49,52,55
+7,Grace,10,C,82,77,79,85,80
+8,Helen,10,B,60,65,62,64,68
+9,Ian,10,A,70,72,74,68,76
+10,Jane,10,C,90,88,92,91,94

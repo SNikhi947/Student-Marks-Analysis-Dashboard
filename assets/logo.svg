@@ -1,0 +1,12 @@
+<!-- assets/logo.svg -->
+<!-- Simple placeholder SVG logo -->
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240">
+  <rect width="240" height="240" rx="18" fill="#0ea5a4"/>
+  <g transform="translate(34,34)" fill="#ffffff">
+    <rect x="0" y="0" width="172" height="20" rx="6"/>
+    <rect x="0" y="34" width="120" height="12" rx="6"/>
+    <rect x="0" y="56" width="140" height="12" rx="6"/>
+    <circle cx="150" cy="88" r="36" fill="#ffffff" opacity="0.14"/>
+    <text x="20" y="130" font-family="Arial" font-size="24" fill="#ffffff">College</text>
+  </g>
+</svg>
